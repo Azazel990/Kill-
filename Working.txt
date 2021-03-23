@@ -1,0 +1,2 @@
+A Windows Malware that kiils everything that has been started  and will be started by constantly sending Alt+F4 using vbscript
+Execute kill.vbs
